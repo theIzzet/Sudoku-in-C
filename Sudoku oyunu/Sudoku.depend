@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684842004 source:c:\users\Ýzzet\desktop\210229048_Ýzzetesener\sudoku oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684667857 source:c:\users\Ýzzet\desktop\cc\chatgpt\ilk\sudoku9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
